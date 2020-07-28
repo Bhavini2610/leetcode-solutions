@@ -16,7 +16,7 @@ Solutions for leetcode problems:
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](python/sort-colors.py)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python](python/subsets.py)|Medium|
 |107|[Binary Tree Level Order Traversal Ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](python/binary-tree-level-order-traversal-ii.py)|Easy|
-|121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](python/best-time-to-buy-and-sell-stock.py)|Easy|
+|121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](python/best-time-to-buy-and-sell-stock.py),[Java](Java/best-time-to-buy-and-sell-stock.java)|Easy|
 |129|[Sum Root To Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](python/sum-root-to-leaf-numbers.py)|Medium|
 |137|[Single Number Ii](https://leetcode.com/problems/single-number-ii/)|[Python](python/single-number-ii.py)|Medium|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Python](python/dungeon-game.py),[Java](java/dungeon-game.java)|Hard
